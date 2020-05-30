@@ -18,7 +18,7 @@ My first server using express with basic CRUD operations.
 
 ![Screenshot (265)](https://user-images.githubusercontent.com/46627661/83329063-d0d24980-a2a4-11ea-96e5-ed4432db1681.png)
 
-#### Database after all above operations
+### Database after all above operations
 
 
 ![Screenshot (266)](https://user-images.githubusercontent.com/46627661/83329075-d760c100-a2a4-11ea-80bc-4be09a8e35de.png)
