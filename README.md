@@ -2,6 +2,13 @@
 
 My first server using express with basic CRUD operations.
 
+## Learning:
+### NPM Package:
+#### a) express:
+Fast, unopinionated, minimalist web framework for node.
+#### b) joi:
+Object schema description language and validator for JavaScript objects.
+
 ### Initial Database using GET operation (Read)
 
 ![Screenshot (262)](https://user-images.githubusercontent.com/46627661/83329045-bc8e4c80-a2a4-11ea-820d-04eaeb6e2422.png)
